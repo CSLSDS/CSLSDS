@@ -4,6 +4,6 @@ ___
 
 :droplet: or :tea:  
 
-:keyboard: > :computer_mouse:  
+:keyboard:  >  :computer_mouse:  
 
 :snake: == :fire:  
