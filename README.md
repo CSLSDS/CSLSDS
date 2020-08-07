@@ -3,4 +3,4 @@ data science -- lambda school
 :droplet:| or |:tea:
 :--|:-:|--:
 :keyboard:|  >  |:computer_mouse:
-:snake:| == |:fire:
+:snake:| == |:goat:
