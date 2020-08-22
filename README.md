@@ -4,4 +4,4 @@ data science -- lambda school
 :--|:-:|--:
 :keyboard:|  NOT  |:computer_mouse:
 :snake:| == |:goat:
-:pedestrian:| AND | 🙊
+🚶| AND | 🙊
