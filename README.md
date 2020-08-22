@@ -1,6 +1,7 @@
 # **I'm Chelsea!** :bar_chart: :microscope:  
 data science -- lambda school  
-:droplet:| or |:tea:
+:droplet:| OR |:tea:
 :--|:-:|--:
-:keyboard:|  >  |:computer_mouse:
+:keyboard:|  NOT  |:computer_mouse:
 :snake:| == |:goat:
+:pedestrian:| AND | 🙊
