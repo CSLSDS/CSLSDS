@@ -5,7 +5,7 @@
 :keyboard:|  NOT  |:computer_mouse:
 :snake:| == |:goat:
 🚶| AND | 🙊
-F🍊L| ➡ | V🍁T
+F🍊L| -> | V🍁T
 
 \
 \
