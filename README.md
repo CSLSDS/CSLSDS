@@ -1,7 +1,10 @@
 # **I ' m   C h e l s e a !**  📊 🔧 📚 🔬 🔮  
-| Lambda School - Data + Computer Science |  
-:droplet:| OR |:tea:
+| Lambda School - Data + Computer Science |   
+
+ **HERE** | **IS** | **ME**
 :-- | :---: | --:
+A... | to | ...Z
+:droplet:| OR |:tea:
 :keyboard: |  >  | :computer_mouse:
 🐍 | ⇔ | 🐐
 🚶| AND | 🙊
