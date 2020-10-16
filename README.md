@@ -6,7 +6,9 @@
 :snake:| == |:goat:
 🚶| AND | 🙊
 F🍊L| -> | V🍁T
-
+  
+ 
+# [LinkedIn / CSLSDS](https://www.linkedin.com/in/cslsds/)
 \
 \
 \
