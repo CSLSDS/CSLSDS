@@ -1,5 +1,5 @@
 # **I ' m   C h e l s e a !**  📊 🔧 📚 🔬 🔮  
-| Lambda School - Data + Computer Science |   
+| Attending Lambda School for Data & Computer Science |   
 
  **HERE** | **IS** | **ME**
 :-- | :---: | --:
