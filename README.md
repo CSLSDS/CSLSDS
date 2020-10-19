@@ -1,4 +1,4 @@
-# **I ' m   C h e l s e a !**  📊 🔧 📚 🔬 🔮  
+# **I ' m   C h e l s e a !** 📊 🔧 📚 🔬 🔮  
 | Attending Lambda School for Data & Computer Science |   
 
 **ABOUT** |     | **ME**
