@@ -16,7 +16,6 @@
 
 **ABOUT** |     | **ME**
 :-- | :---: | --:
-:droplet:| OR |:tea:
 :keyboard: |  >  | :computer_mouse:
 F🍊L| → | V🍁T
 🐍 | ⇔ | 🐐
