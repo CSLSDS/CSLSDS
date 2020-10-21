@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Pandas-000066?style=plastic&labelColor=222222&Color=CC0099&logo=Pandas&logoColor=ff00cc)
 ![](https://img.shields.io/badge/PostgreSQL-blue?style=plastic&labelColor=464646&logo=PostgreSQL&logoColor=6699ff)
 ![](https://img.shields.io/badge/amazon-aws-ff6600?style=plastic&labelColor=333333&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/scikit-learn-ff9933?style=plastic&labelColor=3399dd&logo=scikit-learn)
+![](https://img.shields.io/badge/scikit-learn-ff9933?style=plastic&labelColor=3399dd&logo=scikit-learn&logoColor=cccccc)
 ![](https://img.shields.io/badge/Keras-cc0000?style=plastic&logo=Keras&logoColor=cc0000&labelColor=aaaaaa)
 ![]()
 ![](https://img.shields.io/badge/tensorflow-ff6600?style=plastic&labelColor=333333&logo=tensorflow&logoColor=white)
