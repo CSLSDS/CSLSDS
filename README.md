@@ -1,4 +1,3 @@
-# **I ' m   C h e l s e a !** 📊 🔧 📚 🔬 🔮  
 ![](https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=yellow)
 ![](https://img.shields.io/badge/Jupyter-ff6300?style=plastic&labelColor=373737&logo=Jupyter&logoColor=ff6633)
 ![](https://img.shields.io/badge/Pandas-000066?style=plastic&labelColor=222222&Color=CC0099&logo=Pandas&logoColor=ff00cc)
@@ -11,6 +10,8 @@
 ![]()
 ![]()
 ![]()  
+
+# **I ' m   C h e l s e a !** 📊 🔧 📚 🔬 🔮  
 | Attending Lambda School for Data & Computer Science |   
 
 **ABOUT** |     | **ME**
