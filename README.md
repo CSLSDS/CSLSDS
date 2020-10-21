@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=yellow)
 ![](https://img.shields.io/badge/Jupyter-ff6300?style=plastic&labelColor=373737&logo=Jupyter&logoColor=ff6633)
-![](https://img.shields.io/badge/Pandas-000066?style=plastic&labelColor=222222&Color=CC0099&logo=Pandas&logoColor=ff00cc)
+![](https://img.shields.io/badge/pandas-000066?style=plastic&labelColor=222222&Color=CC0099&logo=pandas&logoColor=ff00cc)
 ![](https://img.shields.io/badge/PostgreSQL-blue?style=plastic&labelColor=464646&logo=PostgreSQL&logoColor=6699ff)
-![](https://img.shields.io/badge/amazon-aws-ff6600?style=plastic&labelColor=333333&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Amazon-aws-ff6600?style=plastic&labelColor=333333&logo=Amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/scikit-learn-ff9933?style=plastic&labelColor=3399dd&logo=scikit-learn&logoColor=cccccc)
 ![](https://img.shields.io/badge/Keras-cc0000?style=plastic&logo=Keras&logoColor=cc0000&labelColor=aaaaaa)
 ![]()
-![](https://img.shields.io/badge/tensorflow-ff6600?style=plastic&labelColor=333333&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-ff6600?style=plastic&labelColor=333333&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/Docker-3399dd?style=plastic&labelColor=333333&logo=Docker&logoColor=66ccff)
-![]()
+![](https://img.shields.io/badge/Vim-009900?style=plastic&labelColor=333333&logo=Vim&logoColor=339900)
 ![]()  
 
 # **I ' m   C h e l s e a !** 📊 🔧 📚 🔬 🔮  
