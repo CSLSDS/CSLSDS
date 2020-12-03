@@ -12,7 +12,7 @@
 ![]()  
 
 # **I ' m   C h e l s e a !** 📊 🔧 📚 🔬 🔮  
-| Attending Lambda School for Data & Computer Science |   
+| Endorsed by Lambda School in Data & Computer Science |   
 
 **ABOUT** |     | **ME**
 :-- | :---: | --:
