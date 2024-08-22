@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Vim-009900?style=plastic&labelColor=333333&logo=Vim&logoColor=339900)
 ![]()  
 
-# **I ' m   C h e l s e a !** 📊 🔧 📚 🔬 🔮  
+# **H e l l o  W o r l d !** 📊 🔧 📚 🔬 🔮  
 | Endorsed by Lambda School in Data & Computer Science |   
 
 **ABOUT** |     | **ME**
